@@ -1,0 +1,5 @@
+```
+selenium==4.34.2
+browserstack-local==1.1.0
+python-dotenv==1.0.1
+```
