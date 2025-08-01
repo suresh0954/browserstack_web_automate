@@ -58,11 +58,13 @@ python web_test.py
 
 📦 File Structure
 
+```
 automate/
 ├── web_test.py          # Main test script for web automation
 ├── README.md            # Project overview and setup guide
 ├── requirements.txt     # Python dependencies
 └── .env (optional)      # Environment variables (not checked in)
+```
 
 🧠 Test Flow Summary
 
