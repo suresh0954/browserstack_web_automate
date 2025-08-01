@@ -13,12 +13,10 @@ This project demonstrates cross-browser automated testing using **Selenium with 
 
 ## Pre-requisites: 
 
-````
 Python 3.8+
 Node.js v12 (If you are using >v12, then switch to v12 via "nvm use 12")
 npm (comes with Node.js)
 pip (Python package installer)
-```
 
 ---
 
